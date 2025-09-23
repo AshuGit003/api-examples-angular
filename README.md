@@ -57,3 +57,9 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Running API
+
+For using APIs download jason server from (https://github.com/typicode/json-server).
+Follow the instructions given by them for installation.
+Setup it to local machine it will work.
